@@ -1,5 +1,6 @@
 ## **Olá pessoas!!** 👋
 [Boas vindas ao meu Github](imagem/giphy.gif)
+Em construção...
 
 ## 😊 Quem sou eu 😊
 Eu sou Veruska e estou iniciando minha jornada em tecnologia. Atualmente, eu sou estudante de Análise e Desenvolvimento de Sistemas na [ETE PORTO DIGITAL](https://www.instagram.com/eteportodigital/), onde sou concluinte, e, também na [UNINASSAU](https://www.uninassau.edu.br/). Sou uma pessoa bastante curiosa, tenho paixão por estar sempre aprendendo e costumo me aprofundar em tudo aquilo que me proponho a desenvolver. Sou mãe, esposa e apaixonada por família, amigos, música, café e chocolate
