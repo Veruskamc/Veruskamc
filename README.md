@@ -36,11 +36,9 @@ Eu sou Veruska e estou iniciando minha jornada em tecnologia. Atualmente, eu sou
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
 ## 🔎 Contacte-me 🔎
- <div align = "center">
-  
+   
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veruskademelocorreia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veruskademelocorreia/)
-  
- </div> 
+ 
 
 
