@@ -1,6 +1,7 @@
-## **Olá pessoas!!** 👋
-[Boas vindas ao meu Github](imagem/giphy.gif)
-Em construção...
+# **Olá pessoas!!**<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35">
+<div align='center'>
+<img align="center" height="250" width="900" alt="GIF" src="https://media4.giphy.com/media/brsEO1JayBVja/giphy.gif"/>
+</div>
 
 ## 😊 Quem sou eu 😊
 Eu sou Veruska e estou iniciando minha jornada em tecnologia. Atualmente, eu sou estudante de Análise e Desenvolvimento de Sistemas na [ETE PORTO DIGITAL](https://www.instagram.com/eteportodigital/), onde sou concluinte, e, também na [UNINASSAU](https://www.uninassau.edu.br/). Sou uma pessoa bastante curiosa, tenho paixão por estar sempre aprendendo e costumo me aprofundar em tudo aquilo que me proponho a desenvolver. Sou mãe, esposa e apaixonada por família, amigos, música, café e chocolate
